@@ -12,4 +12,4 @@ Notable projects and assignments done as a part of my MSc (Data Science &amp; An
 
 ## Simple Shakespeare Search Engine
 - Program is able to take a query as input and return the most comparable lines from a predetermined Shakespearean text by calculating tf-idf scores.
-- Languages Used: **pySpark, HDFS, SQL*
+- Languages Used: **pySpark, HDFS, SQL**
